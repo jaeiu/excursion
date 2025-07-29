@@ -18,6 +18,14 @@ body {
     color: white;
 }
 
+.header--sub-header {
+    font-size: 21px;
+    color: gray;
+}
+
+
+
+
 /* Links */
 
 .link--cta {
